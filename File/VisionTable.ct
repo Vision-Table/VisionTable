@@ -3,7 +3,7 @@
   <CheatEntries>
     <CheatEntry>
       <ID>0</ID>
-      <Description>"Activate Vision Table."</Description>
+      <Description>"Activate Vision Table"</Description>
       <Options moHideChildren="1"/>
       <LastState/>
       <Color>0EB627</Color>
