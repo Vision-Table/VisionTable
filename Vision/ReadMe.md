@@ -1,4 +1,4 @@
-# Vision Menu Table V0.1 .
+# Vision Menu Table V0.2 .
 
 Is First Arabic Mod Menu .
 
