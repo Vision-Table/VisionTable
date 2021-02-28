@@ -13,7 +13,7 @@ Menu Discord Server : https://discord.gg/SZuTv3gbUr
 </h1>
 <p align="center">
   <a href="https://discord.gg/WGEbtCuFbj">
-    <img src="https://discordapp.com/api/guilds/664602037388050473/widget.png?style=shield" alt="Discord Server">
+    <img src="https://discord.com/widget?id=664602037388050473&theme=dark" alt="Discord Server">
   </a>
 </p>
 <br>
