@@ -19,3 +19,5 @@ Menu Discord Server : https://discord.gg/SZuTv3gbUr
 Have Fun (:
 
 Copyright (c) 2021 VisionTable Team
+
+![LICENSE](https://img.shields.io/github/license/Vision-Table/VisionTable)
