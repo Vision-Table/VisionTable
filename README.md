@@ -2,8 +2,8 @@
 # VisionTable
 <br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=VisionTable)
-
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=VisionTable)
+![Stars](https://img.shields.io/github/stars/Vision-Table/VisionTable?style=plastic)
 <br/>
 
 A Mod Menu For Gta V Online .
