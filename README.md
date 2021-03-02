@@ -5,6 +5,7 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VisionTable)
 ![Stars](https://img.shields.io/github/stars/Vision-Table/VisionTable)
 ![Status](https://img.shields.io/uptimerobot/status/m787390924-6f64fc62565b4747868bae71)
+![Size](https://img.shields.io/github/repo-size/Vision-Table/VisionTable)
 ![Downloads](https://img.shields.io/github/downloads/Vision-Table/VisionTable/total)
 <br/>
 
