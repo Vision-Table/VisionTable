@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="ot"https://github.com/Vision-Table/VisionTable ><img src="https://media.discordapp.net/attachments/795646127302115328/817042250898997338/1511.png?width=907&height=408" alt="VisionTable"></a>
+  <a href="ot"https://github.com/Vision-Table/VisionTable ><img src="https://media.discordapp.net/attachments/795646127302115328/817043463173570620/1511.png?width=726&height=408" alt="VisionTable"></a>
   <br>
   VisionTable
   <br>
